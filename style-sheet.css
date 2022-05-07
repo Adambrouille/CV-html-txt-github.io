@@ -1,0 +1,172 @@
+/**menu**/
+.menu{
+    background-image: url("IMG_20200515_043253.jpg"),url("fond-ecran-wallpaper-image-wallpapers-abstrait-vert-16-660x330.jpg");
+    background-size: 150px, 120px;
+    background-repeat: no-repeat,repeat-x;
+    background-attachment:scroll, fixed;
+    background-position-x: 25px, center;
+    background-position-y: 25px, bottom;
+    background-color: rgb(166, 196, 76);
+    border: 20px solid #3e673e;
+}
+.name{
+    text-align: center;
+    font-size: 45px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+.cvtitle{
+    text-align: center;
+    font-size: 25px;
+}
+.pageone{
+    text-align: center;
+    font-weight: 600;
+    background-color: #489f48;
+    width: 70%;
+    margin-left:220px;
+    border: 10px  solid #87c687;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.lien{
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+a{
+    text-decoration: none;
+    color: rgb(228, 209, 69);
+}
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.exp{
+    background-color: #85b685;
+    width: 70%;
+    margin-left:230px;
+    border: 5px solid #000;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.stud{
+    background-color: #76ae76;
+    width: 70%;
+    margin-left:230px;
+    border: 5px solid #000;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.qual{
+    background-color: #4c894c;
+    width: 70%;
+    margin-left:230px;
+    border: 5px solid #000;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.motv{
+    background-color: #3e673e;
+    width: 70%;
+    margin-left: 230px;
+    border: 5px solid #000;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+/**motivations**/
+.motivation{
+    background-color: rgb(189, 189, 131);
+    background-image: url("La_dynamique_de_groupe-nouveau.jpg");
+    background-position: center;
+    background-size: 2500px;
+}
+.motivationtitle{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: #489f48;
+    text-shadow: 0px 0px 10px rgb(0, 0, 0, 1);
+}
+.listemotv{
+    background-color: #3e673e;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+    border: 5px solid #000;
+}
+.elli{
+    text-align: left;
+    font-size: 30px;
+}
+/**Qualités**/
+.qualite{
+    background-color: rgb(189, 189, 131);
+    background-image: url("génération-slasheur-1080x675.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1200px;
+}
+.qualitetitle{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: #489f48;
+    text-shadow: 0px 0px 10px rgb(0, 0, 0, 1);
+}
+.listequalite{
+    background-color: #3e673e;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+    border: 5px solid #000;
+}
+/**études**/
+.etude{
+    background-color: rgb(189, 189, 131);
+    background-image: url("104-1040565_school-wallpapers-school-background.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}
+.etudetitle{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: #489f48;
+    text-shadow: 0px 0px 10px rgb(0, 0, 0, 1);
+}
+.listeetude{
+    background-color: #3e673e;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+    border: 5px solid #000;
+}
+/**Experience profesionnel**/
+.exppro{
+    background-color: rgb(189, 189, 131);
+    background-image: url("business-camera-coffee-1509428-reduit-1080x675.jpg");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 1550px;
+}
+.expprotitle{
+    text-align: center;
+    font-size: 70px;
+    font-weight: 700;
+    color: #489f48;
+    text-shadow: 0px 0px 10px rgb(0, 0, 0, 1);
+}
+.listeexppro{
+    background-color: #3e673e;
+    text-align: center;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    font-size: 20px;
+    border: 5px solid #000;
+}

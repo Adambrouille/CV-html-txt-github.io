@@ -1,11 +1,11 @@
 /**menu**/
 .menu{
     background-image: url("IMG_20200515_043253.jpg");
-    background-size: 150px;
+    background-size: 10%;
     background-repeat: no-repeat;
     background-attachment:scroll;
-    background-position-x: 26px;
-    background-position-y: 26px;
+    background-position-x: 2%;
+    background-position-y: 2%;
     background-color: rgb(173, 191, 40);
     border: 20px solid #000;
 }

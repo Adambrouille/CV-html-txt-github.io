@@ -6,8 +6,10 @@
     background-attachment:scroll;
     background-position-x: 2%;
     background-position-y: 2%;
-    background-color: rgb(173, 191, 40);
-    border: 20px solid #000;
+    border-top-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    background-color: rgb(205, 202, 202);
+    border: 20px solid #000000;
 }
 .name{
     text-align: center;

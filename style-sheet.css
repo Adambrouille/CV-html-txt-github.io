@@ -109,7 +109,7 @@ p{
     background-image: url("génération-slasheur-1080x675.jpg");
     background-position: top;
     background-repeat: no-repeat;
-    background-size: 1200px;
+    background-size: 100%;
 }
 .qualitetitle{
     text-align: center;
@@ -132,7 +132,7 @@ p{
     background-image: url("104-1040565_school-wallpapers-school-background.jpg");
     background-position: top;
     background-repeat: no-repeat;
-    background-size: 1550px;
+    background-size: 100%;
 }
 .etudetitle{
     text-align: center;
@@ -155,7 +155,7 @@ p{
     background-image: url("business-camera-coffee-1509428-reduit-1080x675.jpg");
     background-position: top;
     background-repeat: no-repeat;
-    background-size: 1550px;
+    background-size: 100%;
 }
 .expprotitle{
     text-align: center;

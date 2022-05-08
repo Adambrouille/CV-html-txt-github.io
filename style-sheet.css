@@ -192,3 +192,6 @@ p{
 .a:hover{
     color: rgba(210, 211, 219, 0.15);
 }
+.main{
+    display: block;
+}

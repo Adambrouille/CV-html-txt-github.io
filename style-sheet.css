@@ -170,3 +170,23 @@ p{
     font-size: 20px;
     border: 5px solid #000;
 }
+/**Details**/
+.exp:hover{
+    border-top: 5px solid #cd7421;
+    background-color: rgb(182, 187, 92, 0.15);
+}
+.stud:hover{
+    border-top: 5px solid #cd7421;
+    background-color: rgb(182, 187, 92, 0.15);
+}
+.qual:hover{
+    border-top: 5px solid #cd7421;
+    background-color: rgb(182, 187, 92, 0.15);
+}
+.motv:hover{
+    border-top: 5px solid #cd7421;
+    background-color: rgb(182, 187, 92, 0.15);
+}
+.a:hover{
+    color: rgba(210, 211, 219, 0.15);
+}
